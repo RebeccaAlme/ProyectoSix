@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name":"Rebecca AlMe",
+    "description":"Soy una desarrolladora Web full-stack. ¡Trabajemos juntxs!",
+    "image":"profilepic.jpg",
+    "bio":".",
+    "contactmessage":"Si tienes algún proyecto en mente y te gustaría que hicieramos una colaboración; dejame tus datos y me pondré en contacto contigo o envía DM a mis redes sociales.",
+    "email": "petiterbk@gmail.com",
+    "phone": "55 7625 7625",
+    "github":"https://github.com/RebeccaAlme",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Fresno)",
+      "city":"(Los Reyes)",
+      "state":"(Estado de México)",
+      "zip": "(56420)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/petitebecka/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/alme_rebecca",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rebeccaalme/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/rebeccalme/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/RebeccaAlme",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Utel",
+        "degree":"Desarrollo Web FullStack",
+        "graduated":"Agosto 2022",
+        "description":"BootCamp con duración de 7 meses, dónde se contruyen aplicaciones web, incluyendo comercio electrónico, através del lenguaje JavaScript.Se desarrollan múltiples proyectos."
+      },
+      {
+        "school":"UNAM",
+        "degree":"Licenciatura en desarrollo y Gestión Interculturales",
+        "graduated":"Marzo 2015",
+        "description":"Se desarrollan conocimientos interdiciplinarios necesarios para lograr un diálogo constructivo y una convivencia entre culturas, grupos sociales y autoridades. Especializada en el área de Ciencia, Tecnología y Sociedad"
+      }
+    ],
+    "work":[
+      {
+        "company":"Utel",
+        "title":"BootCamp Desarrollo Web FullStack",
+        "years":"March 2018 - Present",
+        "description":"A lo largo de 4 modulos se desarrollaron proyectos de Frontend con HTML, CSS, JavaScript, React, NodeJS, Apps con base de Datos NoSQL, terminando con entrevistas técnicas."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"55%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"React",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Node JS",
+        "level":"50%"
+      },
+      {
+        "name":"NODE JS",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Landing para negocio",
+        "category":"Landing de venta de regalos personalizados, hecha con CSS y HTML.",
+        "image":"01.jpg",
+        "url":"https://rebeccaalme.github.io/Proyecto1Ucamp/?classId=b08433a6-76d4-4fa5-9a16-273baa5ef14b&assignmentId=d853b31b-4f87-4cbd-9ede-54475c645200&submissionId=3603bed9-ecb2-8a1b-65e8-4cf8703206bc"
+      },
+      {
+        "title":"Aplicación CRUD",
+        "category":"CRUD con JavaScrip",
+        "image":"02.jpg",
+        "url":"https://rebeccaalme.github.io/Proyecto1Ucamp/admin.html"
+      },
+      {
+        "title":"Dashboard",
+        "category":"DashBoard con conexion a la api Disney, grafica datos del personaje seleccionado",
+        "image":"03.jpg",
+        "url":"https://rebeccaalme.github.io/DashBoard/?classId=b08433a6-76d4-4fa5-9a16-273baa5ef14b&assignmentId=cd81ade4-fe85-45b2-aca8-3b5e931c7b24&submissionId=42341234-fd57-d630-c8d2-819dc3bc9142"
+      },
+      {
+        "title":"Restaurante App",
+        "category":"Se trata de una aplicación de restaurante hecha con react, dentro de las rutas tenemos el menú y un blog, además se utilizó firebase para almacenar las reservaciones.",
+        "image":"04.jpg",
+        "url":"https://main--brilliant-vacherin-618894.netlify.app/?classId=b08433a6-76d4-4fa5-9a16-273baa5ef14b&assignmentId=fec4a797-f146-4219-b63f-ddf4042ad552&submissionId=d051c337-741b-c374-996a-24438f23b49f"
+      },
+      {
+        "title":"Aplicación de comercio electrónico",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"https://verdant-travesseiro-4db223.netlify.app/?classId=b08433a6-76d4-4fa5-9a16-273baa5ef14b&assignmentId=afc70bb9-5ec9-4930-9a6b-1ccda6b90b5b&submissionId=db8a2966-d75b-1704-b04b-3a63d2845e08"
+      } 
+    ]
+  }
+}
