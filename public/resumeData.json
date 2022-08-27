@@ -3,20 +3,20 @@
     "name":"Rebecca AlMe",
     "description":"Soy una desarrolladora Web full-stack. ¡Trabajemos juntxs!",
     "image":"profilepic.jpg",
-    "bio":".",
+    "bio":"Soy una persona interdiciplinaria y apasionada; egresada de la Faculda de iflosofía y eltras, docente de fránces, voluntaria en Serpaj, full-stack con preferencia al frontend, desarrolladora de páginas web. Disfruto mucho dormir, comer y platicar, soy dedicada, ansiosa y muy detallista.",
     "contactmessage":"Si tienes algún proyecto en mente y te gustaría que hicieramos una colaboración; dejame tus datos y me pondré en contacto contigo o envía DM a mis redes sociales.",
     "email": "petiterbk@gmail.com",
-    "phone": "55 7625 7625",
+    "phone": "55 7625 0076",
     "github":"https://github.com/RebeccaAlme",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/RebeccaAlme/ProyectoSix.git",
     "address":{
       "street":"(Fresno)",
       "city":"(Los Reyes)",
       "state":"(Estado de México)",
       "zip": "(56420)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://stellar-mandazi-cc3a4d.netlify.app/",
+    "resumedownload":"https://stellar-mandazi-cc3a4d.netlify.app/",
     "social":[
       {
         "name":"facebook",
@@ -95,7 +95,15 @@
         "level":"50%"
       },
       {
-        "name":"NODE JS",
+        "name":"Firebase",
+        "level":"50%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"50%"
+      },
+      {
+        "name":"Git",
         "level":"80%"
       }
     ]

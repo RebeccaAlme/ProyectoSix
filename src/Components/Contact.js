@@ -19,7 +19,7 @@ class Contact extends Component {
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
-                <span>Get In Touch.</span>
+                <span>Contáctate con nosotros.</span>
               </h1>
             </div>
 
@@ -127,7 +127,7 @@ class Contact extends Component {
                   <li>○  Backend</li>
                   <li>○  Soporte técnico</li>
                 </ul>
-                <h4 className="widget-title">Inserte frase mamadora aquí</h4>
+                <h4 className="widget-title">“Pastito del cordón de la vereda (acera)” P. A. 2014</h4>
               </div>
             </aside>
           </Slide>
