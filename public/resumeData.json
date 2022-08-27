@@ -5,14 +5,14 @@
     "image":"profilepic.jpg",
     "bio":"Soy una persona interdiciplinaria y apasionada; egresada de la Facultad de Filosofía y Letras, docente de fránces, voluntaria en Serpaj, full-stack con preferencia al frontend, desarrolladora de páginas web. Disfruto mucho dormir, comer y platicar, soy dedicada, ansiosa y muy detallista.",
     "contactmessage":"Si tienes algún proyecto en mente y te gustaría que hicieramos una colaboración; dejame tus datos y me pondré en contacto contigo o envía DM a mis redes sociales.",
-    "email": "petiterbk@gmail.com",
+    "email": "fleursfleurs@gmail.com",
     "phone": "55 5555 5555",
     "github":"https://github.com/RebeccaAlme",
     "project":"https://github.com/RebeccaAlme/ProyectoSix.git",
     "address":{
-      "street":"(Flores)",
-      "city":"(Flores)",
-      "state":"(Estado de México)",
+      "street":"(fleursfleurs)",
+      "city":"(fleursfleurs)",
+      "state":"(México)",
       "zip": "(55555)"
     },
     "website": "https://stellar-mandazi-cc3a4d.netlify.app/",
@@ -20,12 +20,12 @@
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/petitebecka/",
+        "url":"https://www.linkedin.com/in/rebeccaalme/",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"https://twitter.com/alme_rebecca",
+        "url":"https://github.com/RebeccaAlme",
         "className":"fa fa-twitter"
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "name":"instagram",
-        "url":"https://www.instagram.com/rebeccalme/",
+        "url":"https://github.com/RebeccaAlme",
         "className":"fa fa-instagram"
       },
       {
