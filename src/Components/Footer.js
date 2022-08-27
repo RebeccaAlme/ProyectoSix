@@ -26,7 +26,7 @@ class Footer extends Component {
                 <li>&copy; Copyright 2022 ReAl Projects</li>
                 <li>
                   Design by{" "}
-                  <a title="Styleshout">
+                  <a title="Styleshout" href="https://github.com/RebeccaAlme">
                     Rebecca AlMe
                   </a>
                 </li>
